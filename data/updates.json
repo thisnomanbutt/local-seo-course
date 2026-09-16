@@ -1,5 +1,5 @@
 {
-  "lastChecked": null,
+  "lastChecked": "2026-09-16",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -16,15 +16,15 @@
     {
       "name": "Google Search Central Blog",
       "url": "https://developers.google.com/search/blog",
-      "rss": "https://developers.google.com/search/blog/feed.xml",
       "official": true,
-      "note": "Announcements including ranking and local changes. Has an RSS feed, so it is checked automatically."
+      "rss": "https://developers.google.com/search/blog/feed.xml",
+      "note": "Announcements including ranking and local changes. Has an RSS feed, so it can be checked automatically."
     },
     {
       "name": "Google Search Status Dashboard",
       "url": "https://status.search.google.com/",
       "official": true,
-      "note": "Confirms live incidents and ongoing ranking updates. Check this first when many businesses move at once."
+      "note": "Confirms live incidents and ongoing ranking updates. Check this first when many clients move at once."
     },
     {
       "name": "Google Business Profile Help Community",
@@ -35,19 +35,58 @@
     {
       "name": "Search Engine Roundtable",
       "url": "https://www.seroundtable.com/",
-      "rss": "https://www.seroundtable.com/index.rdf",
       "official": false,
+      "rss": "https://www.seroundtable.com/index.rdf",
       "note": "Third party. Fast on local changes. Treat early reports as unconfirmed — lesson 8.4.3."
     },
     {
       "name": "Search Engine Land",
       "url": "https://searchengineland.com/library/platforms/google/google-business-profile",
-      "rss": "https://searchengineland.com/feed",
       "official": false,
+      "rss": "https://searchengineland.com/feed",
       "note": "Third party. Usually slower but more measured than immediate forum reports."
     }
   ],
   "items": [
+    {
+      "id": "2026-09-16-google-merchant-center-ai-reports-live-easier-ucp-ucp-analyt",
+      "date": "2026-09-16",
+      "title": "Google Merchant Center AI Reports Live, Easier UCP & UCP Analytics",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-ai-updates-42095.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-16-google-search-product-listings-tests-linking-directly-to-mer",
+      "date": "2026-09-16",
+      "title": "Google Search Product Listings Tests Linking Directly To Merchant Site",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-product-listings-direct-merchant-42089.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-15-google-business-profile-api-application-delays",
+      "date": "2026-09-15",
+      "title": "Google Business Profile API Application Delays",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "example-entry",
       "date": "2026-09-16",
@@ -58,7 +97,7 @@
       "status": "example",
       "summary": "Nothing has been recorded here yet. This entry shows you the format so you can add the first real one.",
       "whatItMeans": "Each entry has a plain-English summary, what it actually means for a local business, and what you should do about it. Keep all three short.",
-      "action": "Open data/updates.json, copy this block, fill in a real update, and delete this example.",
+      "action": "Open data/updates.js, copy this block, fill in a real update, and delete this example.",
       "affects": []
     }
   ]

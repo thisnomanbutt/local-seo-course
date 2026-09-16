@@ -1,15 +1,12 @@
 /* Local SEO Mastery — updates feed
-   ------------------------------------------------------------------
-   This file is VALID JSON after the assignment, so it can be read and
-   rewritten automatically by the GitHub Action in
+   Valid JSON after the assignment so it can be read and rewritten by
    .github/workflows/local-seo-updates.yml
-
-   To add an update by hand, copy one item block, change the values,
-   and save. See UPDATES-GUIDE.md for the two-minute version.
-   ------------------------------------------------------------------ */
+   Items marked "needs-review" were added automatically. Read the source,
+   rewrite the summary in plain English, add whatItMeans / action / affects,
+   then change status to "confirmed".
+   Last automated run: 2026-09-16 */
 window.LSEO_UPDATES = {
-  "lastChecked": null,
-
+  "lastChecked": "2026-09-16",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -57,13 +54,46 @@ window.LSEO_UPDATES = {
       "note": "Third party. Usually slower but more measured than immediate forum reports."
     }
   ],
-
   "items": [
-
-    /* ----------------------------------------------------------------
-       EXAMPLE — delete this entry once you add a real one.
-       It exists so you can see the shape of an item.
-       ---------------------------------------------------------------- */
+    {
+      "id": "2026-09-16-google-merchant-center-ai-reports-live-easier-ucp-ucp-analyt",
+      "date": "2026-09-16",
+      "title": "Google Merchant Center AI Reports Live, Easier UCP & UCP Analytics",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-ai-updates-42095.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-16-google-search-product-listings-tests-linking-directly-to-mer",
+      "date": "2026-09-16",
+      "title": "Google Search Product Listings Tests Linking Directly To Merchant Site",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-product-listings-direct-merchant-42089.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-15-google-business-profile-api-application-delays",
+      "date": "2026-09-15",
+      "title": "Google Business Profile API Application Delays",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profile-api-application-delays-42085.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "example-entry",
       "date": "2026-09-16",
@@ -77,6 +107,5 @@ window.LSEO_UPDATES = {
       "action": "Open data/updates.js, copy this block, fill in a real update, and delete this example.",
       "affects": []
     }
-
   ]
 };
