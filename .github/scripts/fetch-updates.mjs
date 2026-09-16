@@ -13,7 +13,7 @@
    Everything it adds is marked unverified until you confirm it.
    ------------------------------------------------------------------ */
 
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, appendFile } from "node:fs/promises";
 
 const FILE = "data/updates.js";     // embedded fallback (works offline / file://)
 const JSON_FILE = "data/updates.json"; // fetched live by the page when hosted
@@ -145,3 +145,23 @@ await writeFile(FILE, header + "window.LSEO_UPDATES = " + body + ";\n", "utf8");
 
 console.log(`added ${added.length} new item(s); ${data.items.length} total`);
 if (added.length) for (const a of added) console.log(` + ${a.date}  ${a.title}`);
+
+/* Tell the workflow how many were added, so it can email you by opening an issue. */
+if (process.env.GITHUB_OUTPUT) {
+  await appendFile(process.env.GITHUB_OUTPUT, `added=${added.length}\n`);
+}
+
+if (added.length) {
+  const body =
+    `The daily check found **${added.length}** possible Local SEO update${added.length > 1 ? "s" : ""}.\n\n` +
+    added.map(a =>
+      `### ${a.date} — ${a.title}\n` +
+      `Source: ${a.source}${a.url ? `\n${a.url}` : ""}\n`
+    ).join("\n") +
+    `\n---\n\n**These are unverified.** Read each source, then in \`data/updates.js\`:\n` +
+    `rewrite the summary in plain English, fill in \`whatItMeans\` and \`action\`, ` +
+    `add the affected lesson IDs to \`affects\`, and change \`status\` to \`"confirmed"\`. ` +
+    `Delete anything irrelevant.\n\n` +
+    `Course: https://thisnomanbutt.github.io/local-seo-course/#/updates\n`;
+  await writeFile("new-updates.md", body, "utf8");
+}

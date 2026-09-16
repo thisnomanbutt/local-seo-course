@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   fetch:
@@ -22,6 +23,7 @@ jobs:
           node-version: "20"
 
       - name: Fetch updates from the official feeds
+        id: fetch
         run: node .github/scripts/fetch-updates.mjs
 
       - name: Commit anything new
@@ -35,3 +37,14 @@ jobs:
             git commit -m "Update feed: $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      # Opening an issue is what actually emails you.
+      # Watching a repository does NOT notify you about commits.
+      - name: Open an issue so you get an email
+        if: steps.fetch.outputs.added != '0' && steps.fetch.outputs.added != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "🆕 ${{ steps.fetch.outputs.added }} new Local SEO update(s) — $(date -u +%Y-%m-%d)" \
+            --body-file new-updates.md
