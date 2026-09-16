@@ -1,0 +1,37 @@
+name: Check for Local SEO updates
+
+# Runs every day at 07:00 UTC, and whenever you press the button manually.
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repository
+        uses: actions/checkout@v4
+
+      - name: Use Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch updates from the official feeds
+        run: node .github/scripts/fetch-updates.mjs
+
+      - name: Commit anything new
+        run: |
+          git config user.name "local-seo-updates"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/updates.js data/updates.json; then
+            echo "No changes."
+          else
+            git add data/updates.js data/updates.json
+            git commit -m "Update feed: $(date -u +%Y-%m-%d)"
+            git push
+          fi

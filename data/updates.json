@@ -1,0 +1,65 @@
+{
+  "lastChecked": null,
+  "sources": [
+    {
+      "name": "Google Business Profile Help",
+      "url": "https://support.google.com/business",
+      "official": true,
+      "note": "Product help and release notes. The primary source for feature and policy changes."
+    },
+    {
+      "name": "Google Business Profile — guidelines",
+      "url": "https://support.google.com/business/answer/3038177",
+      "official": true,
+      "note": "The representation guidelines. Read these properly once a year — lesson 10.3.1."
+    },
+    {
+      "name": "Google Search Central Blog",
+      "url": "https://developers.google.com/search/blog",
+      "rss": "https://developers.google.com/search/blog/feed.xml",
+      "official": true,
+      "note": "Announcements including ranking and local changes. Has an RSS feed, so it is checked automatically."
+    },
+    {
+      "name": "Google Search Status Dashboard",
+      "url": "https://status.search.google.com/",
+      "official": true,
+      "note": "Confirms live incidents and ongoing ranking updates. Check this first when many businesses move at once."
+    },
+    {
+      "name": "Google Business Profile Help Community",
+      "url": "https://support.google.com/business/community",
+      "official": true,
+      "note": "Product experts and Google staff post announcements and confirm behaviour here."
+    },
+    {
+      "name": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/",
+      "rss": "https://www.seroundtable.com/index.rdf",
+      "official": false,
+      "note": "Third party. Fast on local changes. Treat early reports as unconfirmed — lesson 8.4.3."
+    },
+    {
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/library/platforms/google/google-business-profile",
+      "rss": "https://searchengineland.com/feed",
+      "official": false,
+      "note": "Third party. Usually slower but more measured than immediate forum reports."
+    }
+  ],
+  "items": [
+    {
+      "id": "example-entry",
+      "date": "2026-09-16",
+      "title": "This is an example entry — replace it with a real update",
+      "source": "Course author",
+      "url": "",
+      "type": "note",
+      "status": "example",
+      "summary": "Nothing has been recorded here yet. This entry shows you the format so you can add the first real one.",
+      "whatItMeans": "Each entry has a plain-English summary, what it actually means for a local business, and what you should do about it. Keep all three short.",
+      "action": "Open data/updates.json, copy this block, fill in a real update, and delete this example.",
+      "affects": []
+    }
+  ]
+}
