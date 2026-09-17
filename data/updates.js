@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-16 */
+   Last automated run: 2026-09-17 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-16",
+  "lastChecked": "2026-09-17",
   "sources": [
     {
       "name": "Google Business Profile Help",
