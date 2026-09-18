@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-17",
+  "lastChecked": "2026-09-18",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -48,6 +48,19 @@
     }
   ],
   "items": [
+    {
+      "id": "2026-09-17-google-local-knowledge-panel-as-an-ai-overview",
+      "date": "2026-09-17",
+      "title": "Google Local Knowledge Panel As An AI Overview",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-knowledge-panel-ai-overview-42105.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-16-google-merchant-center-ai-reports-live-easier-ucp-ucp-analyt",
       "date": "2026-09-16",
