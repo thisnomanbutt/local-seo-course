@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-18 */
+   Last automated run: 2026-09-19 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-18",
+  "lastChecked": "2026-09-19",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,45 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-18-google-merchant-center-api-now-supports-product-reviews",
+      "date": "2026-09-18",
+      "title": "Google Merchant Center API Now Supports Product Reviews",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-api-supports-product-reviews-42101.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-18-google-search-drops-free-product-listings-from-european-econ",
+      "date": "2026-09-18",
+      "title": "Google Search Drops Free Product Listings From European Economic Area",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-drops-free-product-listings-eea-42113.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-18-google-supports-local-business-queries-in-aggregator-supplie",
+      "date": "2026-09-18",
+      "title": "Google Supports Local Business Queries In Aggregator & Supplier Search Units",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-business-query-units-42115.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-17-google-local-knowledge-panel-as-an-ai-overview",
       "date": "2026-09-17",
