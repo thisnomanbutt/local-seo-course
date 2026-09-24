@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-23 */
+   Last automated run: 2026-09-24 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-23",
+  "lastChecked": "2026-09-24",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-23-google-business-profiles-gives-you-four-days-to-reject-user-",
+      "date": "2026-09-23",
+      "title": "Google Business Profiles Gives You Four Days To Reject User Edits",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-4-days-42139.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-22-google-merchant-center-auto-enables-native-checkout-buy-on-a",
       "date": "2026-09-22",
