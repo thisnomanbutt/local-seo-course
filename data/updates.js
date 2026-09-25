@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-24 */
+   Last automated run: 2026-09-25 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-24",
+  "lastChecked": "2026-09-25",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-24-google-business-profiles-tests-set-your-hours-automatically",
+      "date": "2026-09-24",
+      "title": "Google Business Profiles Tests Set Your Hours Automatically",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-set-your-hours-automatically-42151.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-24-google-tests-local-service-ads-with-larger-image-highlight-b",
+      "date": "2026-09-24",
+      "title": "Google Tests Local Service Ads With Larger Image & Highlight Box",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-service-ads-larger-image-highlight-box-42155.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-23-google-business-profiles-gives-you-four-days-to-reject-user-",
       "date": "2026-09-23",
