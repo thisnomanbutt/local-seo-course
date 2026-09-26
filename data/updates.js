@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-25 */
+   Last automated run: 2026-09-26 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-25",
+  "lastChecked": "2026-09-26",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-25-google-lsas-showing-google-business-profile-number-not-googl",
+      "date": "2026-09-25",
+      "title": "Google LSAs Showing Google Business Profile Number, Not Google Ads Number",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-lsa-phone-number-42160.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-24-google-business-profiles-tests-set-your-hours-automatically",
       "date": "2026-09-24",
