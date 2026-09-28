@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-27 */
+   Last automated run: 2026-09-28 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-27",
+  "lastChecked": "2026-09-28",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-28-several-google-merchant-center-policy-documents-updated",
+      "date": "2026-09-28",
+      "title": "Several Google Merchant Center Policy Documents Updated",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-policy-docs-updates-42167.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-28-google-merchant-center-api-help-document-vastly-updated",
+      "date": "2026-09-28",
+      "title": "Google Merchant Center API Help Document Vastly Updated",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-api-help-doc-update-42137.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-25-google-lsas-showing-google-business-profile-number-not-googl",
       "date": "2026-09-25",
