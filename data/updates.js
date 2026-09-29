@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-28 */
+   Last automated run: 2026-09-29 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-28",
+  "lastChecked": "2026-09-29",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,45 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-29-google-local-panel-with-two-rows-of-buttons-on-mobile",
+      "date": "2026-09-29",
+      "title": "Google Local Panel With Two Rows Of Buttons On Mobile",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-panel-two-rows-of-buttons-42176.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-29-google-maps-bug-places-map-pins-in-middle-of-ocean",
+      "date": "2026-09-29",
+      "title": "Google Maps Bug Places Map Pins In Middle Of Ocean",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/googlemap-pins-ocean-42181.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-29-google-business-profiles-policies-adds-misuse-of-support-cha",
+      "date": "2026-09-29",
+      "title": "Google Business Profiles Policies Adds Misuse Of Support Channels",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-misuse-of-support-channels-42175.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-28-several-google-merchant-center-policy-documents-updated",
       "date": "2026-09-28",
