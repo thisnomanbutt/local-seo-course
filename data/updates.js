@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-09-29 */
+   Last automated run: 2026-09-30 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-09-29",
+  "lastChecked": "2026-09-30",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,45 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-09-30-bing-tests-product-features-labels-on-product-listings",
+      "date": "2026-09-30",
+      "title": "Bing Tests Product Features Labels On Product Listings",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/bing-product-features-labels-42161.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-30-bing-sponsored-ads-with-one-line-consumer-review-extension",
+      "date": "2026-09-30",
+      "title": "Bing Sponsored Ads With One-Line Consumer Review Extension",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/bing-consumer-review-ads-42183.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-30-google-working-to-restore-google-analytics",
+      "date": "2026-09-30",
+      "title": "Google Working To Restore Google Analytics",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-analytics-fix-42187.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-29-google-local-panel-with-two-rows-of-buttons-on-mobile",
       "date": "2026-09-29",
