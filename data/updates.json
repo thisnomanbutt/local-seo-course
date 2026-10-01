@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-30",
+  "lastChecked": "2026-10-01",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -48,6 +48,45 @@
     }
   ],
   "items": [
+    {
+      "id": "2026-10-01-google-local-service-ads-bug-serving-wrong-locations",
+      "date": "2026-10-01",
+      "title": "Google Local Service Ads Bug Serving Wrong Locations",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-service-ads-bug-42208.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-30-openai-chatgpt-ads-gains-bulk-product-creation-product-revie",
+      "date": "2026-09-30",
+      "title": "OpenAI ChatGPT Ads Gains Bulk Product Creation, Product Review Status & More",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42194.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-09-30-google-maps-now-requires-sign-in-to-read-all-reviews-more",
+      "date": "2026-09-30",
+      "title": "Google Maps Now Requires Sign In To Read All Reviews & More",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-maps-account-reviews-42186.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-09-30-bing-tests-product-features-labels-on-product-listings",
       "date": "2026-09-30",
