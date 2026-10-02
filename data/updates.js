@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-01 */
+   Last automated run: 2026-10-02 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-01",
+  "lastChecked": "2026-10-02",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-02-google-local-service-ads-hiding-phone-number-by-default",
+      "date": "2026-10-02",
+      "title": "Google Local Service Ads Hiding Phone Number By Default",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-service-ads-hides-phone-number-42207.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-02-google-manually-factcheck-review-ai-generated-content-for-ac",
+      "date": "2026-10-02",
+      "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-01-google-local-service-ads-bug-serving-wrong-locations",
       "date": "2026-10-01",
