@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-04 */
+   Last automated run: 2026-10-05 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-04",
+  "lastChecked": "2026-10-05",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-05-google-ads-ai-campaign-localization-tool-beta",
+      "date": "2026-10-05",
+      "title": "Google Ads AI Campaign Localization Tool (Beta)",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-02-google-local-service-ads-hiding-phone-number-by-default",
       "date": "2026-10-02",
