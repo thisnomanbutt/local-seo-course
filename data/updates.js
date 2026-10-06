@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-05 */
+   Last automated run: 2026-10-06 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-05",
+  "lastChecked": "2026-10-06",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-06-updated-google-maps-policy-what-merchants-can-t-post-in-list",
+      "date": "2026-10-06",
+      "title": "Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-05-google-ads-ai-campaign-localization-tool-beta",
       "date": "2026-10-05",
