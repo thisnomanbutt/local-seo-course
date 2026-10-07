@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-06 */
+   Last automated run: 2026-10-07 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-06",
+  "lastChecked": "2026-10-07",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,45 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-07-google-drops-review-snippets-for-healthcare-web-pages",
+      "date": "2026-10-07",
+      "title": "Google Drops Review Snippets For Healthcare Web Pages",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-drops-healthcare-review-snippets-42248.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-07-google-merchant-center-new-ucp-integration-hub",
+      "date": "2026-10-07",
+      "title": "Google Merchant Center New UCP Integration Hub",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-07-google-local-panel-gains-whatsapp-button",
+      "date": "2026-10-07",
+      "title": "Google Local Panel Gains WhatsApp Button",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-panel-whatsapp-button-42230.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-06-updated-google-maps-policy-what-merchants-can-t-post-in-list",
       "date": "2026-10-06",
