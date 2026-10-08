@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-07 */
+   Last automated run: 2026-10-08 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-07",
+  "lastChecked": "2026-10-08",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,45 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-08-google-local-service-ads-expands-how-leads-work-information",
+      "date": "2026-10-08",
+      "title": "Google Local Service Ads Expands How Leads Work Information",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-08-google-merchant-center-may-disapprove-products-that-change-f",
+      "date": "2026-10-08",
+      "title": "Google Merchant Center May Disapprove Products That Change Frequently",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-08-google-ads-ai-max-columns-brand-inclusion-commission-locatio",
+      "date": "2026-10-08",
+      "title": "Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest & Optimized Targeting",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-07-google-drops-review-snippets-for-healthcare-web-pages",
       "date": "2026-10-07",
