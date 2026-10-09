@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-08 */
+   Last automated run: 2026-10-09 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-08",
+  "lastChecked": "2026-10-09",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-09-google-ads-enables-text-customization-asset-previews",
+      "date": "2026-10-09",
+      "title": "Google Ads Enables Text Customization Asset Previews",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-09-bing-testing-local-pack-without-borders",
+      "date": "2026-10-09",
+      "title": "Bing Testing Local Pack Without Borders",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/bing-local-pack-without-borders-42257.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-08-google-local-service-ads-expands-how-leads-work-information",
       "date": "2026-10-08",
