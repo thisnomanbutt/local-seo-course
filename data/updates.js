@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-12 */
+   Last automated run: 2026-10-13 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-12",
+  "lastChecked": "2026-10-13",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-13-google-merchant-center-videos-stuck-in-preview-processing",
+      "date": "2026-10-13",
+      "title": "Google Merchant Center Videos Stuck In Preview Processing",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-13-new-google-local-dietary-attributes-gluten-free-dairy-free-h",
+      "date": "2026-10-13",
+      "title": "New Google Local Dietary Attributes: Gluten-Free, Dairy-Free, Halal & Kosher",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-09-google-ads-enables-text-customization-asset-previews",
       "date": "2026-10-09",
