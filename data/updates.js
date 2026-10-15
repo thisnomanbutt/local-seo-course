@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-14 */
+   Last automated run: 2026-10-15 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-14",
+  "lastChecked": "2026-10-15",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-14-new-google-ads-controls-channel-prioritization-budget-alloca",
+      "date": "2026-10-14",
+      "title": "New Google Ads Controls: Channel Prioritization & Budget Allocation",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-13-google-merchant-center-videos-stuck-in-preview-processing",
       "date": "2026-10-13",
