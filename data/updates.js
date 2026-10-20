@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-19 */
+   Last automated run: 2026-10-20 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-19",
+  "lastChecked": "2026-10-20",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-20-google-business-profiles-review-appeals-are-delayed-again",
+      "date": "2026-10-20",
+      "title": "Google Business Profiles Review Appeals Are Delayed Again",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-review-appeals-delays-42331.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-19-google-moves-google-posts-higher-up-on-local-panel",
       "date": "2026-10-19",
