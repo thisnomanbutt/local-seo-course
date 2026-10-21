@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-20 */
+   Last automated run: 2026-10-21 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-20",
+  "lastChecked": "2026-10-21",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-21-google-merchant-center-specifies-fast-shipping-days-by-count",
+      "date": "2026-10-21",
+      "title": "Google Merchant Center Specifies Fast Shipping Days By Country",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-20-google-business-profiles-verification-with-government-id",
+      "date": "2026-10-20",
+      "title": "Google Business Profiles Verification With Government ID",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-20-google-business-profiles-review-appeals-are-delayed-again",
       "date": "2026-10-20",
