@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-22 */
+   Last automated run: 2026-10-23 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-22",
+  "lastChecked": "2026-10-23",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,58 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-23-google-business-profiles-tests-new-advanced-performance-repo",
+      "date": "2026-10-23",
+      "title": "Google Business Profiles Tests New Advanced Performance Reports",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-23-google-ads-tests-scrolling-marquee-style-for-ratings-reviews",
+      "date": "2026-10-23",
+      "title": "Google Ads Tests Scrolling Marquee Style For Ratings/Reviews & Underlines",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-22-google-business-home-new-google-business-profiles-home",
+      "date": "2026-10-22",
+      "title": "Google Business Home - New Google Business Profiles Home",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-home-42363.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-22-google-search-tests-layout-change-for-local-knowledge-panel",
+      "date": "2026-10-22",
+      "title": "Google Search Tests Layout Change For Local Knowledge Panel",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-21-google-merchant-center-specifies-fast-shipping-days-by-count",
       "date": "2026-10-21",
