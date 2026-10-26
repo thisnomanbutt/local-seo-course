@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-25 */
+   Last automated run: 2026-10-26 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-25",
+  "lastChecked": "2026-10-26",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-26-google-ads-ai-generated-review-summaries-help-doc",
+      "date": "2026-10-26",
+      "title": "Google Ads AI-Generated Review Summaries Help Doc",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-23-search-news-buzz-video-recap-google-search-chatter-php-explo",
       "date": "2026-10-23",
