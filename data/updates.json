@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-26",
+  "lastChecked": "2026-10-27",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -48,6 +48,19 @@
     }
   ],
   "items": [
+    {
+      "id": "2026-10-27-advertisers-can-t-figure-out-if-an-ad-is-a-google-local-serv",
+      "date": "2026-10-27",
+      "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-service-ad-confusion-42328.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-26-google-ads-ai-generated-review-summaries-help-doc",
       "date": "2026-10-26",

@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-10-26 */
+   Last automated run: 2026-10-27 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-10-26",
+  "lastChecked": "2026-10-27",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-10-27-advertisers-can-t-figure-out-if-an-ad-is-a-google-local-serv",
+      "date": "2026-10-27",
+      "title": "Advertisers Can't Figure Out If An Ad Is A Google Local Service Ad Or Not",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-service-ad-confusion-42328.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-26-google-ads-ai-generated-review-summaries-help-doc",
       "date": "2026-10-26",
