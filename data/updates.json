@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-27",
+  "lastChecked": "2026-10-28",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -48,6 +48,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2026-10-28-google-business-profiles-adds-facebook-messenger-m-me-links",
+      "date": "2026-10-28",
+      "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-10-28-google-business-profiles-asking-businesses-for-ein",
+      "date": "2026-10-28",
+      "title": "Google Business Profiles Asking Businesses For EIN",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-27-advertisers-can-t-figure-out-if-an-ad-is-a-google-local-serv",
       "date": "2026-10-27",
