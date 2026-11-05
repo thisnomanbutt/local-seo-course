@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-11-04 */
+   Last automated run: 2026-11-05 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-11-04",
+  "lastChecked": "2026-11-05",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-11-05-google-business-profiles-car-dealership-inventory-limited-pi",
+      "date": "2026-11-05",
+      "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-10-29-google-business-profiles-ai-powered-messaging-expands",
       "date": "2026-10-29",
