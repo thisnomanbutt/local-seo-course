@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-11-08 */
+   Last automated run: 2026-11-09 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-11-08",
+  "lastChecked": "2026-11-09",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-11-09-google-adding-booking-links-to-business-profiles-automatical",
+      "date": "2026-11-09",
+      "title": "Google Adding Booking Links To Business Profiles Automatically?",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-adding-booking-links-42477.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-11-06-search-news-buzz-video-recap-google-scaled-content-abuse-fro",
       "date": "2026-11-06",
