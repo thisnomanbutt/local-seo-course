@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-11-09 */
+   Last automated run: 2026-11-10 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-11-09",
+  "lastChecked": "2026-11-10",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-11-10-google-ai-overview-local-pack-dropping-action-buttons-photos",
+      "date": "2026-11-10",
+      "title": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ai-overview-local-pack-action-buttons-42483.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-11-10-filter-google-product-results-for-non-incentivized-reviews",
+      "date": "2026-11-10",
+      "title": "Filter Google Product Results For Non-Incentivized Reviews",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-product-non-incentivized-reviews-42491.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-11-09-google-adding-booking-links-to-business-profiles-automatical",
       "date": "2026-11-09",
