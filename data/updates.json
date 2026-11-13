@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-12",
+  "lastChecked": "2026-11-13",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -48,6 +48,32 @@
     }
   ],
   "items": [
+    {
+      "id": "2026-11-13-google-merchant-center-promotions-titles-now-disallows-redem",
+      "date": "2026-11-13",
+      "title": "Google Merchant Center Promotions Titles Now Disallows Redemption Dates",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-promotions-titles-date-42488.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-11-13-google-merchant-center-deal-ends-annotation-no-longer-experi",
+      "date": "2026-11-13",
+      "title": "Google Merchant Center Deal Ends Annotation No Longer Experimental",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-11-11-google-merchant-loyalty-program-new-eligibility-requirements",
       "date": "2026-11-11",
