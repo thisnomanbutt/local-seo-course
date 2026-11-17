@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-11-16 */
+   Last automated run: 2026-11-17 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-11-16",
+  "lastChecked": "2026-11-17",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-11-17-google-local-services-ads-historical-reports-can-now-be-down",
+      "date": "2026-11-17",
+      "title": "Google Local Services Ads Historical Reports Can Now Be Downloaded",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-local-services-ads-historical-reports-available-for-download-42560.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-11-16-google-business-profiles-now-lets-you-add-facebook-messenger",
+      "date": "2026-11-16",
+      "title": "Google Business Profiles Now Lets You Add Facebook Messenger Number",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-facebook-messenger-42549.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-11-13-google-merchant-center-promotions-titles-now-disallows-redem",
       "date": "2026-11-13",
