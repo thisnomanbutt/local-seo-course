@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-11-23 */
+   Last automated run: 2026-11-24 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-11-23",
+  "lastChecked": "2026-11-24",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,32 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-11-24-google-business-profiles-appeals-simplified-into-a-single-fo",
+      "date": "2026-11-24",
+      "title": "Google Business Profiles Appeals Simplified Into A Single Form",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-appeals-form-simplified-42593.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
+    {
+      "id": "2026-11-24-new-google-business-profiles-controls-for-appointments-dinne",
+      "date": "2026-11-24",
+      "title": "New Google Business Profiles Controls For Appointments & Dinner Reservations",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-11-19-google-hotel-search-listings-with-continue-on-google-to-book",
       "date": "2026-11-19",
