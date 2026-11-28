@@ -4,9 +4,9 @@
    Items marked "needs-review" were added automatically. Read the source,
    rewrite the summary in plain English, add whatItMeans / action / affects,
    then change status to "confirmed".
-   Last automated run: 2026-11-27 */
+   Last automated run: 2026-11-28 */
 window.LSEO_UPDATES = {
-  "lastChecked": "2026-11-27",
+  "lastChecked": "2026-11-28",
   "sources": [
     {
       "name": "Google Business Profile Help",
@@ -55,6 +55,19 @@ window.LSEO_UPDATES = {
     }
   ],
   "items": [
+    {
+      "id": "2026-11-27-google-on-when-to-fix-404-errors-updates-404-sitemaps-docs",
+      "date": "2026-11-27",
+      "title": "Google On When To Fix 404 Errors & Updates 404 & Sitemaps Docs",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-404-and-sitemaps-docs-42634.html",
+      "type": "note",
+      "status": "needs-review",
+      "summary": "Picked up automatically from Search Engine Roundtable. Read the source, then rewrite this summary in plain English and remove the unverified flag.",
+      "whatItMeans": "",
+      "action": "",
+      "affects": []
+    },
     {
       "id": "2026-11-27-google-merchant-center-ads-opportunities-with-new-features",
       "date": "2026-11-27",
